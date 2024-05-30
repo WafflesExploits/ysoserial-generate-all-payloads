@@ -1,5 +1,5 @@
 # ysoserial-generate-all-payloads
-### \-> Generates all ysoserial payloads, and can also lets you know which payload worked.
+### \-> Generates all ysoserial payloads, and also lets you know which payload worked.
 ### Usage:
 ```Bash
 ./generate_payloads.sh <commands>
