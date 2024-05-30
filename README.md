@@ -9,7 +9,7 @@
 ### Script: [here](https://github.com/WafflesExploits/ysoserial-generate-all-payloads/blob/main/generate_payloads.sh)
 ### Payloads list: [here](https://github.com/WafflesExploits/ysoserial-generate-all-payloads/blob/main/payloads.txt)
 
-### You can also send a HTTP request to your collaborator link, with the subdomain being the name of the payload. This way, you know which payload works:
+### Also, simplifies the process of identifying the working payload by appending the payload name to your Collaborator link as a subdomain.
 
 - ![63da3eeffa1e509d262abd53b06081ec.png](https://github.com/WafflesExploits/ysoserial-generate-all-payloads/assets/15943431/00e679ac-72a4-4ce2-abf4-1ee0aa1b0eca)
 - ![c8f4434126d5a991d19ece6635a66b9b.png](https://github.com/WafflesExploits/ysoserial-generate-all-payloads/assets/15943431/7bafa210-30a7-46ce-a64e-a59ad1faa63e)
