@@ -6,8 +6,7 @@
 ./generate_payloads.sh --curl 'collaborator-link' #Adds payload name as a subdomain, so you can check which payload worked.
 ./generate_payloads.sh --request 'curl' 'collaborator-link' #Same as --curl, but you can choose the command to use. E.g. use ping instead of curl.
 ```
-### Script: [here](https://github.com/WafflesExploits/ysoserial-generate-all-payloads/blob/main/generate_payloads.sh) to generate all ysoserial payloads for you.
-
+### Script: [here](https://github.com/WafflesExploits/ysoserial-generate-all-payloads/blob/main/generate_payloads.sh)
 ### Payloads list: [here](https://github.com/WafflesExploits/ysoserial-generate-all-payloads/blob/main/payloads.txt)
 
 ### You can also send a HTTP request to your collaborator link, with the subdomain being the name of the payload. This way, you know which payload works:
